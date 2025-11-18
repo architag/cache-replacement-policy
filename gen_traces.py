@@ -15,7 +15,7 @@ def parse_args():
     parsed_args = parser.parse_args()
 
     if not os.path.isfile(parsed_args.app):
-        print(f"ERROR: CUDA Executable does not exist: {executable}")
+        print(f"ERROR: CUDA Executable does not exist: {parsed_args.app}")
         sys.exit(1)
     
     return parsed_args
