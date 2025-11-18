@@ -1,0 +1,2 @@
+kernel id, kernel mangled name, grid_dimX, grid_dimY, grid_dimZ, #blocks, block_dimX, block_dimY, block_dimZ, #threads, total_insts, total_reported_insts
+kernel-1-ctx_0x1759910.trace.xz, _Z6vecGPUPfS_S_ii, 8, 1, 1, 8, 500, 1, 1, 500, 1908480,1908480
