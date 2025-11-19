@@ -1,0 +1,17 @@
+kernel id, kernel mangled name, grid_dimX, grid_dimY, grid_dimZ, #blocks, block_dimX, block_dimY, block_dimZ, #threads, total_insts, total_reported_insts
+kernel-1-ctx_0x16a8920.trace.xz, _Z6KernelP4NodePiPbS2_S2_S1_i, 8, 1, 1, 8, 512, 1, 1, 512, 1920,1920
+kernel-2-ctx_0x16a8920.trace.xz, _Z7Kernel2PbS_S_S_i, 8, 1, 1, 8, 512, 1, 1, 512, 1784,1784
+kernel-3-ctx_0x16a8920.trace.xz, _Z6KernelP4NodePiPbS2_S2_S1_i, 8, 1, 1, 8, 512, 1, 1, 512, 3504,3504
+kernel-4-ctx_0x16a8920.trace.xz, _Z7Kernel2PbS_S_S_i, 8, 1, 1, 8, 512, 1, 1, 512, 2252,2252
+kernel-5-ctx_0x16a8920.trace.xz, _Z6KernelP4NodePiPbS2_S2_S1_i, 8, 1, 1, 8, 512, 1, 1, 512, 11098,11098
+kernel-6-ctx_0x16a8920.trace.xz, _Z7Kernel2PbS_S_S_i, 8, 1, 1, 8, 512, 1, 1, 512, 3128,3128
+kernel-7-ctx_0x16a8920.trace.xz, _Z6KernelP4NodePiPbS2_S2_S1_i, 8, 1, 1, 8, 512, 1, 1, 512, 28989,28989
+kernel-8-ctx_0x16a8920.trace.xz, _Z7Kernel2PbS_S_S_i, 8, 1, 1, 8, 512, 1, 1, 512, 3200,3200
+kernel-9-ctx_0x16a8920.trace.xz, _Z6KernelP4NodePiPbS2_S2_S1_i, 8, 1, 1, 8, 512, 1, 1, 512, 38514,38514
+kernel-10-ctx_0x16a8920.trace.xz, _Z7Kernel2PbS_S_S_i, 8, 1, 1, 8, 512, 1, 1, 512, 3200,3200
+kernel-11-ctx_0x16a8920.trace.xz, _Z6KernelP4NodePiPbS2_S2_S1_i, 8, 1, 1, 8, 512, 1, 1, 512, 35034,35034
+kernel-12-ctx_0x16a8920.trace.xz, _Z7Kernel2PbS_S_S_i, 8, 1, 1, 8, 512, 1, 1, 512, 2984,2984
+kernel-13-ctx_0x16a8920.trace.xz, _Z6KernelP4NodePiPbS2_S2_S1_i, 8, 1, 1, 8, 512, 1, 1, 512, 15139,15139
+kernel-14-ctx_0x16a8920.trace.xz, _Z7Kernel2PbS_S_S_i, 8, 1, 1, 8, 512, 1, 1, 512, 1688,1688
+kernel-15-ctx_0x16a8920.trace.xz, _Z6KernelP4NodePiPbS2_S2_S1_i, 8, 1, 1, 8, 512, 1, 1, 512, 1768,1768
+kernel-16-ctx_0x16a8920.trace.xz, _Z7Kernel2PbS_S_S_i, 8, 1, 1, 8, 512, 1, 1, 512, 1664,1664
