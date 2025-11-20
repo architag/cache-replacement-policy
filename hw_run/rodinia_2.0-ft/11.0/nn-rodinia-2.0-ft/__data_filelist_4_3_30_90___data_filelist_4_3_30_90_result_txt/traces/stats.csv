@@ -1,0 +1,5 @@
+kernel id, kernel mangled name, grid_dimX, grid_dimY, grid_dimZ, #blocks, block_dimX, block_dimY, block_dimZ, #threads, total_insts, total_reported_insts
+kernel-1.trace, _Z6euclidPcffPfiii, 938, 1, 1, 938, 16, 1, 1, 16, 172586,172586
+kernel-2.trace, _Z6euclidPcffPfiii, 938, 1, 1, 938, 16, 1, 1, 16, 171896,171896
+kernel-3.trace, _Z6euclidPcffPfiii, 938, 1, 1, 938, 16, 1, 1, 16, 171666,171666
+kernel-4.trace, _Z6euclidPcffPfiii, 938, 1, 1, 938, 16, 1, 1, 16, 171528,171528

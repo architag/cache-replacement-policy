@@ -1,0 +1,8 @@
+kernel id, kernel mangled name, grid_dimX, grid_dimY, grid_dimZ, #blocks, block_dimX, block_dimY, block_dimZ, #threads, total_insts, total_reported_insts
+kernel-1.trace, _Z14calculate_tempiPfS_iiiiffffff, 8, 8, 1, 64, 16, 16, 1, 256, 187096,187096
+kernel-2.trace, _Z14calculate_tempiPfS_iiiiffffff, 8, 8, 1, 64, 16, 16, 1, 256, 187096,187096
+kernel-3.trace, _Z14calculate_tempiPfS_iiiiffffff, 8, 8, 1, 64, 16, 16, 1, 256, 187096,187096
+kernel-4.trace, _Z14calculate_tempiPfS_iiiiffffff, 8, 8, 1, 64, 16, 16, 1, 256, 187096,187096
+kernel-5.trace, _Z14calculate_tempiPfS_iiiiffffff, 8, 8, 1, 64, 16, 16, 1, 256, 187096,187096
+kernel-6.trace, _Z14calculate_tempiPfS_iiiiffffff, 8, 8, 1, 64, 16, 16, 1, 256, 187096,187096
+kernel-7.trace, _Z14calculate_tempiPfS_iiiiffffff, 8, 8, 1, 64, 16, 16, 1, 256, 126430,126430

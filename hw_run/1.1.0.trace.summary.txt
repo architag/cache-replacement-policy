@@ -1,0 +1,14 @@
+1.7T	tesla-v100/1.1.0.latest/cutlass
+77G	tesla-v100/1.1.0.latest/cutlass.tgz
+1.2T	tesla-v100/1.1.0.latest/deepbench
+55G	tesla-v100/1.1.0.latest/deepbench.tgz
+182G	tesla-v100/1.1.0.latest/parboil
+8.7G	tesla-v100/1.1.0.latest/parboil.tgz
+585G	tesla-v100/1.1.0.latest/polybench
+17G	tesla-v100/1.1.0.latest/polybench.tgz
+162M	tesla-v100/1.1.0.latest/rodinia_2.0-ft
+7.2M	tesla-v100/1.1.0.latest/rodinia_2.0-ft.tgz
+56G	tesla-v100/1.1.0.latest/rodinia-3.1
+1.8G	tesla-v100/1.1.0.latest/rodinia-3.1.tgz
+2.6G	tesla-v100/1.1.0.latest/ubench
+82M	tesla-v100/1.1.0.latest/ubench.tgz

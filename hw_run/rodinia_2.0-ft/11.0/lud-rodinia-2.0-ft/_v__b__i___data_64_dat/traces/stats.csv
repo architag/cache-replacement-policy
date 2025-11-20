@@ -1,0 +1,11 @@
+kernel id, kernel mangled name, grid_dimX, grid_dimY, grid_dimZ, #blocks, block_dimX, block_dimY, block_dimZ, #threads, total_insts, total_reported_insts
+kernel-1.trace, _Z12lud_diagonalPfii, 1, 1, 1, 1, 16, 1, 1, 16, 4433,4433
+kernel-2.trace, _Z13lud_perimeterPfii, 3, 1, 1, 3, 32, 1, 1, 32, 3369,3369
+kernel-3.trace, _Z12lud_internalPfii, 3, 3, 1, 9, 16, 16, 1, 256, 5040,5040
+kernel-4.trace, _Z12lud_diagonalPfii, 1, 1, 1, 1, 16, 1, 1, 16, 4433,4433
+kernel-5.trace, _Z13lud_perimeterPfii, 2, 1, 1, 2, 32, 1, 1, 32, 2246,2246
+kernel-6.trace, _Z12lud_internalPfii, 2, 2, 1, 4, 16, 16, 1, 256, 2240,2240
+kernel-7.trace, _Z12lud_diagonalPfii, 1, 1, 1, 1, 16, 1, 1, 16, 4433,4433
+kernel-8.trace, _Z13lud_perimeterPfii, 1, 1, 1, 1, 32, 1, 1, 32, 1123,1123
+kernel-9.trace, _Z12lud_internalPfii, 1, 1, 1, 1, 16, 16, 1, 256, 560,560
+kernel-10.trace, _Z12lud_diagonalPfii, 1, 1, 1, 1, 16, 1, 1, 16, 4433,4433

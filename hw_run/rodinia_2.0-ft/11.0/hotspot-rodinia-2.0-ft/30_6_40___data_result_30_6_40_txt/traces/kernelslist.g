@@ -1,0 +1,9 @@
+MemcpyHtoD,0x00007f698b700000,3600
+MemcpyHtoD,0x00007f698b701000,3600
+kernel-1.traceg
+kernel-2.traceg
+kernel-3.traceg
+kernel-4.traceg
+kernel-5.traceg
+kernel-6.traceg
+kernel-7.traceg
