@@ -28,16 +28,19 @@ If you are using the CIMS infrastructure, you must SSH into the 'cuda3' node.
 ================================================================================
 2. ENVIRONMENT SETUP
 ================================================================================
-Before compiling or running the simulator, you must load the appropriate 
-CUDA module and set environment variables.
+Before compiling or running the simulator, you need to load the source code.
+You must also load the appropriate CUDA module and set environment variables.
 
-1. Load CUDA 12.4:
+1. Clone repo
+    $ git clone git@github.com:architag/cache-replacement-policy.git
+
+2. Load CUDA 12.4:
     $ module load cuda-12.4
 
-2. Set the CUDA install path:
+3. Set the CUDA install path:
     $ export CUDA_INSTALL_PATH=/usr/local/stow/cuda-12.4
 
-3. Update your system PATH:
+4. Update your system PATH:
     $ export PATH=$CUDA_INSTALL_PATH/bin:$PATH
 
 ================================================================================
